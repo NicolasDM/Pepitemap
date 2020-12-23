@@ -251,9 +251,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Meeting_Lucie"
+                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roomlucie.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/room1.html"
+                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roommarc.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -287,9 +287,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Meeting_Guillaume"
+                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roomguillaume.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -305,9 +305,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Meeting_Justine"
+                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roomJustine.html"
                 }],
          "type":"tilelayer",
          "visible":true,
