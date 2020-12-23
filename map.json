@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roomlucie.html"
+                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roomLucie.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roommarc.html"
+                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roomMarc.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roomguillaume.html"
+                 "value":"https:\/\/nicolasdm.github.io\/Pepitemap\/roomGuillaume.html"
                 }],
          "type":"tilelayer",
          "visible":true,
