@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Pepitemap\/map.json#start_garden"
+                 "value":"..\/Pepitemap\/map.json#start_stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
