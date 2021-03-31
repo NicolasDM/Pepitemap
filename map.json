@@ -58,7 +58,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"..\/Pepitemap\/etage_pepite_CVL.json#start_garden"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -130,7 +130,7 @@
                  "value":"ConfPepite1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
                  "value":"Meeting_1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
                  "value":"Meeting_3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -550,7 +550,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
