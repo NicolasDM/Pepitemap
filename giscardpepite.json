@@ -28,7 +28,7 @@
          "y":0
         }, 
         {
-         "data":[4576, 4577, 4578, 4579, 4580, 4581, 4582, 4583, 4584, 4585, 4586, 4587, 4588, 4589, 4590, 4591, 4592, 4593, 4594, 4595, 4596, 4597, 4598, 4599, 4600, 4601, 4602, 4603, 4604, 4605, 4606, 4607, 4608, 4609, 4610, 4611],
+         "data":[4021, 4022, 4023, 4024, 4025, 4026, 4027, 4028, 4029, 4030, 4031, 4032, 4033, 4034, 4035, 4036, 4037, 4038, 4039, 4040, 4041, 4042, 4043, 4044, 4045, 4046, 4047, 4048, 4049, 4050, 4051, 4052, 4053, 4054, 4055, 4056],
          "height":6,
          "id":29,
          "name":"silent_zone",
@@ -64,7 +64,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 4612, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 4058, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":6,
          "id":10,
          "name":"exit",
@@ -74,186 +74,6 @@
                  "name":"exitSceneUrl",
                  "type":"string",
                  "value":"..\/Pepitemap\/mapNEW.json"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":34,
-         "name":"dance_floor",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/jukebox.today\/"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":30,
-         "name":"secret_room",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"secretroom"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":31,
-         "name":"Meeting_1",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Meeting_1"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":32,
-         "name":"Meeting_2",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Meeting_2"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":36,
-         "name":"Meeting_3",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Meeting_3"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":35,
-         "name":"Meeting_4",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Meeting_4"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":37,
-         "name":"Meeting_5",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Meeting_5"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":38,
-         "name":"Meeting_6",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Meeting_6"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":33,
-         "name":"conference_room",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"conferenceroom"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":6,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":41,
-         "name":"sport_room",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"basket"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1315,21 +1135,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":20,
-         "firstgid":3341,
-         "image":"couleur.png",
-         "imageheight":300,
-         "imagewidth":650,
-         "margin":0,
-         "name":"couleur",
-         "spacing":0,
-         "tilecount":180,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":16,
-         "firstgid":3521,
+         "firstgid":3341,
          "image":"objects.png",
          "imageheight":512,
          "imagewidth":512,
@@ -1341,66 +1148,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":3,
-         "firstgid":3777,
-         "image":"Chiffre.png",
-         "imageheight":96,
-         "imagewidth":96,
-         "margin":0,
-         "name":"Chiffre",
-         "spacing":0,
-         "tilecount":9,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":2,
-         "firstgid":3786,
-         "image":"face \u00e0 face.png",
-         "imageheight":96,
-         "imagewidth":64,
-         "margin":0,
-         "name":"face \u00e0 face",
-         "spacing":0,
-         "tilecount":6,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
-         "tilewidth":32
-        }, 
-        {
-         "columns":24,
-         "firstgid":3792,
-         "image":"d\u00e9co table.png",
-         "imageheight":512,
-         "imagewidth":768,
-         "margin":0,
-         "name":"d\u00e9co table",
-         "spacing":0,
-         "tilecount":384,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":25,
-         "firstgid":4176,
+         "firstgid":3597,
          "image":"Jardin.png",
          "imageheight":523,
          "imagewidth":801,
@@ -1458,99 +1207,21 @@
          "tilewidth":32
         }, 
         {
-         "columns":53,
-         "firstgid":4576,
-         "image":"Logo sol 2.png",
-         "imageheight":1152,
-         "imagewidth":1696,
-         "margin":0,
-         "name":"Logo sol 2",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":3,
-         "firstgid":4576,
-         "image":"Tapis.png",
-         "imageheight":64,
-         "imagewidth":96,
-         "margin":0,
-         "name":"Tapis",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":10,
-         "firstgid":4576,
-         "image":"Chaises.png",
-         "imageheight":320,
-         "imagewidth":320,
-         "margin":0,
-         "name":"Chaises",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":4,
-         "firstgid":4576,
+         "firstgid":3997,
          "image":"Basketball.png",
          "imageheight":192,
          "imagewidth":128,
          "margin":0,
          "name":"Basketball",
          "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":7,
-         "firstgid":4576,
-         "image":"Canap\u00e9 bis.png",
-         "imageheight":352,
-         "imagewidth":224,
-         "margin":0,
-         "name":"Canap\u00e9 bis",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":21,
-         "firstgid":4576,
-         "image":"Nightclub.png",
-         "imageheight":224,
-         "imagewidth":672,
-         "margin":0,
-         "name":"Nightclub",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":1,
-         "firstgid":4576,
-         "image":"Fake wall.png",
-         "imageheight":32,
-         "imagewidth":32,
-         "margin":0,
-         "name":"Fake wall",
-         "spacing":0,
-         "tilecount":0,
+         "tilecount":24,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
          "columns":6,
-         "firstgid":4576,
+         "firstgid":4021,
          "image":"giscard.png",
          "imageheight":192,
          "imagewidth":192,
@@ -1563,20 +1234,20 @@
         }, 
         {
          "columns":1,
-         "firstgid":4612,
+         "firstgid":4057,
          "image":"Logo 32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
          "name":"Logo 32",
          "spacing":0,
-         "tilecount":0,
+         "tilecount":1,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
          "columns":1,
-         "firstgid":4612,
+         "firstgid":4058,
          "image":"Logo 32.png",
          "imageheight":32,
          "imagewidth":32,
