@@ -21,6 +21,12 @@
          "id":11,
          "name":"start_garden",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"start_garden",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -76,7 +82,7 @@
                  "value":"..\/Pepitemap\/giscardpepite.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
