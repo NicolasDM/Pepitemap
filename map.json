@@ -101,9 +101,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Pepitemap\/etage_pepite_CVL.json"
+                 "value":"..\/Pepitemap\/etage_pepite_CVL.json#start_garden"
                 }],
          "type":"tilelayer",
          "visible":true,
