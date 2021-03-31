@@ -441,6 +441,12 @@
          "id":36,
          "name":"Salle_A",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"PepiteA"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -453,6 +459,12 @@
          "id":37,
          "name":"Salle_B",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"PepiteB"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -465,6 +477,12 @@
          "id":38,
          "name":"Salle_C",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"PepiteC"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -477,6 +495,12 @@
          "id":39,
          "name":"Salle_D",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"PepiteD"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
