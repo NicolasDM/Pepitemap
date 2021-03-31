@@ -64,7 +64,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 4058, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 4057, 4058, 0, 0, 0, 0, 4059, 4060, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":6,
          "id":10,
          "name":"exit",
@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Pepitemap\/mapNEW.json"
+                 "value":"..\/Pepitemap\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1233,28 +1233,15 @@
          "tilewidth":32
         }, 
         {
-         "columns":1,
+         "columns":2,
          "firstgid":4057,
-         "image":"Logo 32.png",
-         "imageheight":32,
-         "imagewidth":32,
+         "image":"Pepite64.png",
+         "imageheight":64,
+         "imagewidth":64,
          "margin":0,
-         "name":"Logo 32",
+         "name":"Pepite64",
          "spacing":0,
-         "tilecount":1,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":1,
-         "firstgid":4058,
-         "image":"Logo 32.png",
-         "imageheight":32,
-         "imagewidth":32,
-         "margin":0,
-         "name":"Logo 32",
-         "spacing":0,
-         "tilecount":1,
+         "tilecount":4,
          "tileheight":32,
          "tilewidth":32
         }],
