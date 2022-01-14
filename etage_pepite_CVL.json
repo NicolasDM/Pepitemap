@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/code-troopers\/pepitemap\/map#start_stairs"
+                 "value":"\/@\/code-troopers\/pepitemap\/office#start_stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
