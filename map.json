@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/code-troopers\/pepitemap\/etage"
+                 "value":"\/@\/code-troopers\/pepitemap\/etage#start_garden"
                 }],
          "type":"tilelayer",
          "visible":true,
